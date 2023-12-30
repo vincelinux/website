@@ -5,4 +5,5 @@
 - first release
 
 Get the release here:
-https://github.com/vlinux-lm/files/blob/main/DAGGER/VLinuxLE-Dagger.torrent
+
+https://github.com/vlinux-lm/files/raw/main/DAGGER/VLinuxLE-Dagger.torrent
