@@ -1,7 +1,29 @@
-body {
-	background-colour: #54F07D;
+@font-face {
+    font-family: 'Consolas';
+    src: url('fonts/consola.woff') format('woff'),
+         url('fonts/consalab.woff') format('woff'),
+         url('fonts/consolai.woff') format('woff'),
+         url('fonts/consolaz.woff') format('woff');
 }
 
-header {
-	background-colour: #54F07D;
+.header {
+    background-color: #AA64FF;
+}
+
+.header-title {
+    color: #54F07D;
+
+}
+
+body {
+    background-color: #AA64FF;
+	font-family: 'Consolas', monospace;
+}
+
+body p {
+    color: #54F07D;
+}
+
+body h1 {
+    color: #54F07D;
 }
